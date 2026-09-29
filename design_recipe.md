@@ -18,14 +18,15 @@ Two participants: joined with an ampersand.
 Three or more participants: commas between names, with an ampersand before the last one.
 ["Bart", "Lisa", "Maggie"] => "Bart, Lisa & Maggie"
 
+
 Order is kept: names appear in the same order they were given.
 ```
 ## 2 function signature
 ```python
 # Parameters:
-# - 
+# - List of names 
 # Return type:
-# - 
+# - String 
 # Side Effects:
 # - 
 def your_function():
